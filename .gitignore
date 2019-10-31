@@ -75,3 +75,4 @@ id_rsa_*
 __pycache__
 bin
 *.cache
+bin/

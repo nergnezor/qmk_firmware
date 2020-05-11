@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "make crkbd:nerg",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "options": {
+                "shell": { "executable": "C:\\WINDOWS\\System32\\wsl.exe" }
+            }
+        }
+    ]
+}
